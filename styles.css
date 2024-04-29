@@ -1,0 +1,76 @@
+body{
+    width: 95%;
+    height: 500%;
+    margin: 65px;
+    background-color:beige;
+    
+    
+    }
+    hr{
+        width: 89.5vw;
+        position: absolute;
+        left: 5%;
+    }
+    .recuadro{
+        margin: auto;
+        margin-top: 25px;
+        width: 90%;
+        height: 500px;
+    }
+   .Nombre{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+   }
+   .Porcentajes{
+    position: relative;
+   
+   }
+
+    .jj{
+        display: flex;
+        position: absolute;
+     
+    }
+
+    .c1{
+        position: absolute;
+        left: 60px;
+        top: 63.5px;
+        color:white;
+    }
+    .c2{
+        position: absolute;
+        left: 210px;
+        top: 63,5px;
+        color: #fff;
+    }
+    .c3{
+        position: absolute;
+        left: 400px;
+        top: 63.5px;
+        color:aliceblue;
+    }
+    .c4{
+        position: absolute;
+        left: 500px;
+        top: 63.5px;
+        color: white;
+    }
+ 
+    .c5{
+        position: absolute;
+        left: 60px;
+        top: 63.5px;
+        color: aliceblue;
+    }
+
+ 
+body{
+    border: 2px solid black;
+    height: 250vh;
+    width: 195vh;
+    background-color:white;
+}
+
+
+
