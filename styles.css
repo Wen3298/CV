@@ -222,9 +222,11 @@ body{
     top:205%;
     left: 499px;
   }
-  
- .ant{
-   background-color: beige;
-   
-
-  }
+ .Slider--inner{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+ }
+ .Slider{
+  overflow: hidden;
+ }
