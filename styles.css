@@ -222,11 +222,4 @@ body{
     top:205%;
     left: 499px;
   }
- .Slider--inner{
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
- }
- .Slider{
-  overflow: hidden;
- }
+ 
